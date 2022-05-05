@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProxyRestart:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProxyRestart_jar</output-path>
+    <root id="archive" name="ProxyRestart.jar">
+      <element id="module-output" name="ProxyRestart" />
+    </root>
+  </artifact>
+</component>

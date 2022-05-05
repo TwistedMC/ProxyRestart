@@ -1,0 +1,5 @@
+name: ProxyRestart
+main: net.twistedmc.proxyrestart.Main
+version: 0.0.1
+author: shastagrande
+
